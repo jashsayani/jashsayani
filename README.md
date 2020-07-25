@@ -2,6 +2,6 @@
 
 I work on web projects and am focused on:
 
-⚡️ Web Performance
+⚡️  Web Performance
 
-✨ New Web APIs and ECMAScript proposals
+✨  New Web APIs and ECMAScript proposals
